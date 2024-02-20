@@ -5,6 +5,6 @@ lsi: true
 
 defaults:
   home:
-     heading: "Your awesome heading aa"
-     subheading: "Your awesome subheading bbb"
-     banner: "Your image url ppp"
+     heading: "Matt's things 🦄"
+     subheading: "Un peu de tout et de rien, mais surtout de rien."
+     banner: "/assets/header.jpg"
