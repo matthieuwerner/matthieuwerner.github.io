@@ -17,9 +17,6 @@ lsi: true
 disqus:
    shortname: "https-matthieuwerner-github-io"
 
-yat:
-  date_format: "%Y-%m-%d %H:%M"
-
 defaults:
   home:
      heading: "Matt's things 🦄"
