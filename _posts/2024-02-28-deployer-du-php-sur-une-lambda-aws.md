@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Déployer du PHP sur une Lambda (AWS)"
+title:  "Déployer du PHP sur une Lambda"
 ---
 
-# Draft
+# Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
