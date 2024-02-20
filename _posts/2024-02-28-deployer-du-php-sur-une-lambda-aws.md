@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Déployer du PHP sur une Lambda (AWS)"
+tags: aws lambda php terraform gitlab ci/cd github
 ---
 
 # Draft
