@@ -2,3 +2,9 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 title: Matt's things 🦄
 description: Un peu de tout et de rien, mais surtout de rien.
 lsi: true
+
+
+home:
+     heading: "Your awesome heading aa"
+     subheading: "Your awesome subheading bbb"
+     banner: "Your image url ppp"
