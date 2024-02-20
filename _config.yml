@@ -1,7 +1,24 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
+
 title: Matt's things 🦄
 description: Un peu de tout et de rien, mais surtout de rien.
+
+author: matthieuwerner
+copyright: "Unpublished Work (cleft) 2024-{currentYear} {author}"
+
+favicon: "/assets/favicon.ico"
+sitemap: true
+lang: "fr"
+night_mode: "auto"
+paginate: 8
+
 lsi: true
+
+disqus:
+   shortname: "https-matthieuwerner-github-io"
+
+yat:
+  date_format: "%Y-%m-%d %H:%M"
 
 defaults:
   home:
