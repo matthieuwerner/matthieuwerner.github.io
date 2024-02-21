@@ -12,7 +12,7 @@ defaults:
 
 copyright: "Unpublished Work (cleft) 2024-{currentYear} {author}"
 #
-favicon: "/assets/favicon.ico"
+favicon: "/assets/favicon.png"
 sitemap: true
 #lang: "fr"
 #night_mode: "auto"
