@@ -2,6 +2,7 @@
 layout: post
 title:  "Déployer du PHP sur une Lambda"
 tags: [aws, lambda, php]
+categories: [poc, bench, tuto]
 ---
 
 # Welcome
